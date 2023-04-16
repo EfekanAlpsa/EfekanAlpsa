@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
+- 🌱 I am currently developing myself in the fields of **Data Science and Artificial Intelligence**.
 
 
 
