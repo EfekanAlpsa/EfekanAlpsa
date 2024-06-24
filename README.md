@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🦦, I'm Efekan</h1>
+<h1 align="center">Hello , I'm Efekan</h1>
 
 
 
