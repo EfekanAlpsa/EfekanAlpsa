@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/efekan alipasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efekan alipasha" height="30" width="40" /></a>
-<a href="https://instagram.com/efekanalpsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efekanalpsa" height="30" width="40" /></a>
+<a href="https://instagram.com/efek1an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efekanalpsa" height="30" width="40" /></a>
 <a href="https://discord.gg/Efekan#6860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Efekan#6860" height="30" width="40" /></a>
 </p>
 
